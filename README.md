@@ -5,6 +5,8 @@ How about days off one day but not today.....
 <br>
 Into loops :)
 <br>
+Strings.
+<br>
 Arrays :)
 <br>
 Author - AbdulRahman
